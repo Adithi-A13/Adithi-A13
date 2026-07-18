@@ -29,7 +29,7 @@ I'm a Backend Engineer focused on building scalable, reliable, and efficient bac
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: linkedin.com/in/adithi-a-14396536a
+- 💼 LinkedIn:https://linkedin.com/in/adithi-a-14396536a
 - 📧 Email:adithi1301@gmail.com
 
 
