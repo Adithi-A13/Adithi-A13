@@ -1,7 +1,7 @@
 # Hi there, I'm Adithi! 👋
 
 ## 💻 Backend Engineer
-I'm a Backend Engineer passionate about building scalable, reliable, and efficient applications. I enjoy designing REST APIs, solving real-world problems, and continuously learning new technologies.
+I'm a Backend Engineer focused on building scalable, reliable, and efficient backend applications. I'm working with modern backend technologies, designing REST APIs, containerized applications and deployment workflows.
 
 ### 🚀 Tech Stack
 
