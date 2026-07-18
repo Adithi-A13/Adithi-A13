@@ -5,23 +5,13 @@ I'm a Backend Engineer focused on building scalable, reliable, and efficient bac
 
 ### 🚀 Tech Stack
 
-**Languages**
-- Python
-- SQL
-- JavaScript
+**Languages:** Python • SQL • JavaScript
 
-**Backend**
-- FastAPI
-- REST APIs
+**Backend:** FastAPI • REST APIs • Pydantic
 
-**Databases**
-- MySQL
-- SQLite
+**Databases:** MySQL • SQLite
 
-**Tools & Technologies**
-- Docker
-- Git & GitHub
-- VS Code
+**DevOps:** Docker • Git • GitHub
 
 ### 🌱 Currently working on
 - Backend Architecture
